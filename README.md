@@ -34,7 +34,7 @@ openpyxl
 
 The model expects multi-band EEG data (Delta, Beta2, Gamma) formatted in `.xlsx` files. The data should be organized with columns representing EEG channels and rows representing sampling points.
 
-*Note: Due to privacy and ethical guidelines, the original clinical EEG datasets are not directly included in this repository. Users can structure their own EEG data following the loading logic in `datasets.py` or request the original dataset from the corresponding authors upon reasonable request.*
+*Note: Due to privacy and ethical guidelines, the original clinical EEG datasets are not directly included in this repository. Users can structure their own EEG data.*
 
 ## 💻 Usage
 
